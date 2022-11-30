@@ -1,0 +1,1 @@
+# termux-modify-aarch-arm
